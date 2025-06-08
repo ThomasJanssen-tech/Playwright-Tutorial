@@ -24,9 +24,9 @@ def scrape_indeed(playwright):
 
         print("SCRAPING LIST ITEMS")
 
-        time.sleep(2)
-
         page.goto('https://www.indeed.com/jobs?q=python+developer&start='+str(page_count * 10))
+
+        time.sleep(10)
 
         vacancies = page.locator('.cardOutline')
 
