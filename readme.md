@@ -3,7 +3,7 @@
 <h2>Watch the full tutorial on my YouTube Channel</h2>
 <div>
 
-<a href="https://youtu.be/c5jHhMXmXyo">
+<a href="https://www.youtube.com/watch?v=afobK3UbTeE">
     <img src="thumbnail_small.png" alt="Thomas Janssen Youtube" width="200"/>
 </a>
 </div>
